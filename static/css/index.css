@@ -1,0 +1,20 @@
+.left_nav {
+    height: 642;
+    width: 200px;
+}
+
+.left_nav a {
+    color:white;
+}
+
+.left_nav ul {
+    height: 100%;
+}
+
+.nav>li>a:hover {
+    background-color: #337AB7;
+}
+
+.nav>li>a:visited {
+    background-color: #337AB7;
+}
